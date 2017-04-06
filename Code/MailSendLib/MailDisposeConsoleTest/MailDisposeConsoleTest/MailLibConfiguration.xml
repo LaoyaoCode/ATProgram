@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!--邮件处理类库的配置信息-->
+<MailLibConfiguration>
+  <!--验证邮件模板相对位置-->
+  <VerifyMailPath>TemplateData\VerifyMail.html</VerifyMailPath>
+  <!--验证邮件的主题-->
+  <VerifyMailSubject>ATG Verify Mail</VerifyMailSubject>
+  <!--邮件发送者的名字-->
+  <MailSenderName>ATG</MailSenderName>
+</MailLibConfiguration>

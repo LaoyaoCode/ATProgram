@@ -1,0 +1,6 @@
+E:\MY C#\ATProgram\Code\FTPFileLib\ConsoleTest\FTPConsoleTest\FTPConsoleTest\bin\Debug\FTPConsoleTest.exe.config
+E:\MY C#\ATProgram\Code\FTPFileLib\ConsoleTest\FTPConsoleTest\FTPConsoleTest\bin\Debug\FTPConsoleTest.exe
+E:\MY C#\ATProgram\Code\FTPFileLib\ConsoleTest\FTPConsoleTest\FTPConsoleTest\bin\Debug\FTPConsoleTest.pdb
+E:\MY C#\ATProgram\Code\FTPFileLib\ConsoleTest\FTPConsoleTest\FTPConsoleTest\obj\Debug\FTPConsoleTest.csprojResolveAssemblyReference.cache
+E:\MY C#\ATProgram\Code\FTPFileLib\ConsoleTest\FTPConsoleTest\FTPConsoleTest\obj\Debug\FTPConsoleTest.exe
+E:\MY C#\ATProgram\Code\FTPFileLib\ConsoleTest\FTPConsoleTest\FTPConsoleTest\obj\Debug\FTPConsoleTest.pdb

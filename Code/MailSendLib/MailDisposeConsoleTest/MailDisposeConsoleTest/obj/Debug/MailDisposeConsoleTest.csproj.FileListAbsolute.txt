@@ -1,0 +1,8 @@
+E:\MY C#\ATProgram\Code\MailSendLib\MailDisposeConsoleTest\MailDisposeConsoleTest\bin\Debug\MailDisposeConsoleTest.exe.config
+E:\MY C#\ATProgram\Code\MailSendLib\MailDisposeConsoleTest\MailDisposeConsoleTest\bin\Debug\MailDisposeConsoleTest.exe
+E:\MY C#\ATProgram\Code\MailSendLib\MailDisposeConsoleTest\MailDisposeConsoleTest\bin\Debug\MailDisposeConsoleTest.pdb
+E:\MY C#\ATProgram\Code\MailSendLib\MailDisposeConsoleTest\MailDisposeConsoleTest\obj\Debug\MailDisposeConsoleTest.csprojResolveAssemblyReference.cache
+E:\MY C#\ATProgram\Code\MailSendLib\MailDisposeConsoleTest\MailDisposeConsoleTest\obj\Debug\MailDisposeConsoleTest.exe
+E:\MY C#\ATProgram\Code\MailSendLib\MailDisposeConsoleTest\MailDisposeConsoleTest\obj\Debug\MailDisposeConsoleTest.pdb
+E:\MY C#\ATProgram\Code\MailSendLib\MailDisposeConsoleTest\MailDisposeConsoleTest\bin\Debug\MailLibConfiguration.xml
+E:\MY C#\ATProgram\Code\MailSendLib\MailDisposeConsoleTest\MailDisposeConsoleTest\bin\Debug\TemplateData\VerifyMail.html
