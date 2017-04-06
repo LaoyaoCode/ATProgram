@@ -17,7 +17,10 @@ namespace FTPConsoleTest
                 });
             */
 
-            FTPDispose.DownLoadFile("TestTxt.txt", "test.txt");
+            FTPDispose.DownLoadFile("TestTxt.txt", "test.txt" , (double progress , FTPDispose.DownLoadOrUplaodState state)=>
+                {
+                    Console.WriteLine("Progress : {0} , state : {1}" , progress  , state);
+                });
             Console.WriteLine("DownLoad Finished!");
             Console.Read();
         }
